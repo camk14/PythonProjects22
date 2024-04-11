@@ -18,11 +18,11 @@ You love cars, and you have cars in several garages. Write a program for garage 
 
 ## File Explanation
 
-### `Project03.py`
+### `project03.py`
 
 This is the main script where the core logic of the program is implemented.
 
-### `cars.py`
+### `car.py`
 
 This module contains the definitions related to cars, such as classes and functions for managing car attributes.
 
