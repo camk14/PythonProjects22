@@ -18,7 +18,7 @@ You love cars, and you have cars in several garages. Write a program for garage 
 
 ## File Explanation
 
-### `project03.py`
+### `project_03.py`
 
 This is the main script where the core logic of the program is implemented.
 
