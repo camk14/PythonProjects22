@@ -1,23 +1,32 @@
+# Project Overview
+
 The point of this project was to utilize concepts in Python 3.10 that were taught in my Python summer class. 
 
-Key Concepts
+## Key Concepts
 
-loops
-nested loops
-multi-way decisions
-functions
-formatted output
-file i/o
-objects and classes
+- loops
+- nested loops
+- multi-way decisions
+- functions
+- formatted output
+- file i/o
+- objects and classes
 
-Problem: 
-You love cars, you have cars in several garages. Write a program for garage and car accounting where data comes from an input file and a report is written to an output file.
+## Problem Statement
 
-File Explaination 
+You love cars, and you have cars in several garages. Write a program for garage and car accounting where data comes from an input file and a report is written to an output file.
 
-Project03.py
+## File Explanation
 
-cars.py
+### `Project03.py`
 
-garage.py
+This is the main script where the core logic of the program is implemented.
+
+### `cars.py`
+
+This module contains the definitions related to cars, such as classes and functions for managing car attributes.
+
+### `garage.py`
+
+This module is responsible for managing garage-related functionalities, including storing and managing multiple cars.
 
